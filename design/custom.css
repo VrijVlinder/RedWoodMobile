@@ -1,0 +1,1084 @@
+#Body {
+height:1000px;
+margin:15px 10px 0 auto;
+text-align:left;
+width:100%;
+}
+
+#Bookmark_List {
+border-bottom:none;
+}
+
+#Bookmark_List li {
+border-bottom:1px solid #555;
+}
+
+#CommentInfo,div.CommentInfo {
+visibility:hidden;
+}
+
+#Content {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border:1px solid #666;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+margin-left:3px;
+padding:0;
+width:98%;
+float:left;
+}
+#Content h1, #Content h3 {
+background: #333;
+border: 1px solid #666;
+color: #fff;
+font-size: 17px;
+font-weight: 700;
+margin: 0 auto;
+padding: 0;
+text-shadow: 1px 2px 0 #000;
+white-space: pre-wrap;
+height: auto;
+}
+#Content,#Panel {
+opacity:10;
+}
+
+#ConversationForm .TextBox {
+background-color:#222;
+height:100px;
+margin:8px 0 6px;
+min-height:100px;
+width:100%;
+}
+
+#ConversationForm form {
+background-color:transparent;
+border-radius:2px 2px 2px 2px;
+margin:0;
+padding:20px;
+text-align:right;
+}
+
+#ConversationForm label {
+color:#CCC;
+display:block;
+font-size:14px;
+font-weight:700;
+text-align:left;
+}
+
+#DiscussionForm form {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border:1px solid #444;
+color:#fff;
+}
+
+#Foot {
+background:transparent;
+margin-bottom:10px;
+}
+
+#Foot div {
+margin:0 auto;
+padding:0;
+}
+
+#Form_Form {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border:1px solid #333;
+padding-bottom:10px;
+}
+
+#Head {
+background-color:transparent;
+background-repeat:repeat;
+border:none;
+padding-left:10px;
+}
+
+#Head div h1 a span img {
+height:auto;
+width:680px;
+}
+
+#Menu {
+display:inline-block;
+margin:0 auto;
+vertical-align:bottom;
+}
+
+#Menu a span,#Menu li.Active a span,#Menu li.Highlight a:hover span {
+-moz-border-radius:11px;
+-webkit-border-radius:11px;
+background:#fff;
+border-radius:11px;
+color:#000;
+font-size:11px;
+font-weight:700;
+padding:0 2px;
+text-shadow:none;
+}
+
+#Menu a:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+background:url(images/parquet.jpg);
+border:1px solid #222;
+box-shadow:0 0 5px #aaa;
+color:#fff;
+font-size:12pt;
+}
+
+#Menu a:link {
+font-size:12pt;
+text-decoration:none;
+}
+
+#Menu li {
+display:inline-block;
+float:left;
+font-weight:700;
+line-height:1.5;
+list-style:none outside none;
+margin:0;
+padding:0;
+position:relative;
+text-align:center;
+}
+
+#MessageForm {
+background:#333;
+}
+
+#Panel {
+float:left!important;
+margin-right:10px;
+width:98%;
+}
+
+#Panel form input.Button {
+-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+border:medium none;
+font-size:12pt;
+font-weight:700;
+height:28px;
+margin-bottom:3px;
+padding:0;
+width:26px;
+}
+
+#Panel form input.InputBox {
+-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background-color:#222;
+border-color:#666;
+border-image:none;
+border-radius:4px;
+border-style:solid;
+border-width:1px;
+color:#fff;
+font-size:13px;
+font-weight:700;
+padding:5px;
+text-shadow:0 1px 0 #000;
+vertical-align:bottom;
+width:80%;
+}
+
+#Panel input.InputBox,.AddPeople textarea.MultiComplete {
+margin-bottom:2px;
+width:188px;
+}
+
+#Status {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+padding-bottom:5px;
+}
+
+#ThemeCredit {
+color:#333;
+font-size:9px;
+}
+
+.Active .TabLink {
+background:#111;
+border:1px solid #222;
+color:#fff;
+}
+
+.Activities .DataList li {
+background:#111;
+border:1px solid #333;
+}
+
+.Activities .Excerpt {
+color:#FFF;
+font-weight:700;
+}
+
+.Activities .Excerpt a:hover,.Activities .Meta a:hover {
+color:#0f0;
+font-size:10pt;
+text-decoration:none;
+}
+
+.Activities .HasPhoto .ItemContent {
+margin-left:53px;
+width:auto;
+}
+
+.Activities li.Condensed .Excerpt {
+font-size:14px;
+text-align:left;
+text-shadow:0 1px 0 #000;
+width:auto;
+}
+
+.Box {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background:#222;
+border:1px solid #555;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+}
+
+.Box dl dt {
+color:#555;
+}
+
+.Box h4 {
+background-color:#222;
+background-repeat:repeat;
+border:1px solid #555;
+box-shadow:none;
+color:#fff;
+text-align:center;
+}
+.Box.GuestBox{
+display:none!important;
+}
+.Box p {
+font-size:100%;
+padding:0 0 4px;
+text-align:center;
+}
+
+.Box p,.Activities .Excerpt a,.Activities .Meta a,body.Entry form ul li label {
+color:#ddd;
+}
+
+.Conversation .Item {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border-bottom:1px solid #444;
+}
+
+.DataList .Excerpt a {
+color:#fff;
+display:block;
+font-size:11pt;
+}
+
+.DataList .Excerpt a:hover {
+font-size:11pt;
+}
+
+.DataList .Item {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border:2px solid #222;
+}
+
+.DataList .Meta {
+color:#adadad;
+font-size:13px;
+}
+
+.DataList .Meta .Announcement {
+background:none repeat scroll 0 0 #4242A9;
+font-size:13px;
+font-weight:700;
+}
+
+.DataList .Meta .Closed {
+background:#bb3c3c;
+font-weight:400;
+}
+
+.DataList .Options,.MessageList .Options {
+margin:7px 4px 0 0;
+}
+
+.DataList a.Delete,.DataList a.Delete:hover {
+-moz-border-radius:0;
+-webkit-border-radius:0;
+border-radius:0;
+color:#fff;
+display:block;
+font-family:arial;
+font-size:25px;
+font-weight:700;
+height:25px;
+line-height:1;
+margin:0;
+padding:2px 4px;
+width:auto;
+}
+
+.DataList li.Mine .Meta a.Category,.DataList .Meta a.Category {
+background:#555;
+}
+.DismissMessage.Box {
+background:transparent;
+border: none;
+box-shadow: none;
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+font-size: 14px;
+color: #fff;
+}
+
+.Emoticon a:link:hover,.Emoticon img:hover,.Emoticon a:hover,.Emoticon:hover {
+background:#0f0!important;
+}
+
+.EmoticonBox {
+-moz-border-bottom-colors:none;
+-moz-border-left-colors:none;
+-moz-border-right-colors:none;
+-moz-border-top-colors:none;
+background-color:#222;
+background-position:center center;
+border-color:0 #AAA #AAA 0;
+border-image:none;
+border-right:1px solid #AAA;
+border-style:none solid solid none;
+border-width:0 1px 1px 0;
+cursor:pointer;
+display:block;
+float:left;
+height:22px;
+overflow:hidden;
+width:22px;
+}
+
+.EmotifyDropdown {
+background-attachment:scroll;
+background-clip:border-box;
+background-color:transparent;
+background-image:url(images/smile.png);
+background-origin:padding-box;
+background-position:0 2px;
+background-repeat:no-repeat;
+background-size:22px auto;
+border-radius:22px 22px 22px 22px;
+cursor:pointer;
+height:22px;
+position:absolute;
+right:0;
+text-align:right;
+top:2px;
+width:22px;
+z-index:10;
+}
+
+.Empty,a.Bookmark span,a.Bookmarking span {
+display:none;
+}
+
+.Foot {
+background:transparent;
+border:1px solid #222;
+}
+
+.Foot .Note {
+color:#000;
+float:left;
+font-weight:700;
+padding:0 0 0 8px;
+}
+
+.HeadingTabs .SubTab {
+background:none repeat scroll 0 0 transparent;
+display:inline;
+font-size:18px;
+font-weight:700;
+line-height:2.4;
+padding:0;
+}
+
+.Headings .ItemHeading {
+font-size:18px;
+font-weight:700;
+line-height:2;
+}
+
+.Item .Author img {
+background:none repeat scroll 0 0 #222;
+border:2px solid #222;
+box-shadow:1px 1px 2px 1px #666;
+float:left;
+height:40px;
+margin:0 10px 0 0;
+overflow:hidden;
+width:40px;
+}
+
+.Item .Author img:hover {
+background:none repeat scroll 0 0 #222;
+border:none;
+border-radius:43px;
+box-shadow:1px 1px 2px 1px #000;
+float:left;
+height:43px;
+margin:0 10px 0 0;
+overflow:hidden;
+width:43px;
+}
+
+.Menu {
+margin:0 auto;
+position:relative;
+text-align:left;
+vertical-align:bottom;
+width:100%;
+}
+
+.Menu h1 span img {
+height:auto;
+margin:0 auto;
+width:100%;
+}
+
+.MenuTitle {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-moz-user-select:none;
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background-color:transparent;
+background-image:url(images/woodnav.png);
+background-position:center center;
+background-repeat:repeat;
+border:2px solid #333;
+border-radius:4px;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+color:#FFF;
+font-size:14px;
+font-weight:700;
+padding:6px;
+text-shadow:0 1px 0 #000;
+}
+
+.MessageForm,.Tabs,.Headings {
+background:url(images/parquet.jpg);
+background-color:transparent;
+border:2px solid #222;
+}
+
+.MessageList .Meta .Author a {
+font-size:15px;
+font-weight:700;
+}
+
+.MessageList .Meta a,span.DateCreated a:hover {
+font-size:10pt;
+}
+
+.MultipleEntryMethods .Methods {
+border: solid 1px #222;
+background: url(images/parquet.jpg);
+font:color:#fff;
+}
+
+.PanelInfo {
+border:1px solid #555;
+}
+
+.PanelInfo .Active {
+background:#fff;
+border:none;
+}
+
+.PanelInfo .Meta span,.PanelInfo .Meta strong {
+color:#ccc;
+margin-right:10px;
+}
+
+.PanelInfo li {
+background:url(images/parquet.jpg);
+border:none;
+}
+
+.Photo img {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+border:1px solid #555;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+}
+
+.Popup #ConversationForm form {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border-radius:0 0 0 0;
+padding:10px;
+}
+
+.Popup #Form_Form {
+background:#fff;
+}
+
+.Popup #Form_Form,div.Popup .Legal,div.Popup .Content form {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+color:#fff;
+font-size:14pt;
+font-weight:700;
+}
+
+.Preview {
+background-color:transparent;
+background-image:url(images/parquet.jpg);
+background-repeat:repeat;
+border:1px solid #444;
+}
+
+.Preview .Message a,.Preview .Message p a,.MessageList .Message a,.MessageList .Message p span a,.Message span a {
+color:#0f0;
+}
+
+.Preview .Message a:hover,.Preview .Message p a:hover,.MessageList .Message a:hover,.MessageList .Message p span a:hover,.Message span a:hover {
+color:#FFD700;
+}
+
+.Preview .Message,.Preview .Message p,.MessageList .Message,.MessageList .Message p span,.Message span {
+color:#fff!important;
+margin:8px 0;
+padding: 5px;
+}
+
+.TabLink,.TabLink:link,.TabLink:active,.TabLink:visited {
+background:#222;
+border:1px solid #444;
+color:#fff;
+font-size:14px;
+}
+
+.TabLink:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+background:#222;
+border:1px solid #444;
+box-shadow:0 0 5px #aaa;
+color:#0f0;
+font-size:14px;
+}
+
+.Tabs .AdminCheck {
+bottom:5px;
+position:absolute;
+right:5px;
+}
+
+.Tabs .Breadcrumbs {
+background:#222;
+}
+
+.Tabs li a span {
+background:#4ec14c;
+color:#000;
+}
+
+.User h1 {
+color:#fff;
+font-size:12pt;
+font-weight:400;
+padding:10px;
+}
+
+.cleditorToolbar {
+background-attachment:scroll;
+background-clip:border-box;
+background-color:transparent;
+background-image:url(images/woodnav.png)!important;
+background-origin:padding-box;
+background-position:0 0;
+background-repeat:repeat;
+background-size:30px auto;
+}
+
+NonTab SignOut a {
+font-size:10pt;
+font-weight:700;
+}
+
+a {
+color:#fff;
+font-size:14px;
+font-weight:700;
+}
+
+a.BigButton {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background:url(images/woodnav.png);
+background-repeat:repeat-x;
+border:1px solid #222;
+border-radius:3px 3px 3px 3px;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+color:#FFF!important;
+cursor:pointer;
+display:block;
+font-size:16px;
+font-weight:700;
+margin:0 0 10px;
+padding:7px;
+text-align:center;
+text-shadow:0 1px 0 #000;
+white-space: pre-wrap;
+}
+
+a.BigButton:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+background:url(images/parquet.jpg);
+border:1px solid #222;
+box-shadow:0 0 5px #aaa;
+color:lime;
+font-size:16px!important;
+}
+
+a.Bookmark,a.Bookmarked,a.Bookmarking {
+background:url(images/star_sprite.png) top center no-repeat;
+}
+
+a.Bookmarked {
+background-position:center center;
+}
+
+a.Bookmarking {
+background-position:bottom center;
+}
+
+a.Button,.Button,#Menu a,a.Back,a.Cancel,.AttachFileLink a,input.Button {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background:url(images/woodnav.png);
+background-repeat:repeat-x;
+border:1px solid #222;
+border-radius:3px 3px 3px 3px;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+color:#fff;
+cursor:pointer;
+display:inline-block;
+font-size:14px;
+font-weight:700;
+margin:0 0 10px;
+padding:3px 6px;
+text-align:center;
+text-shadow:0 1px 0 #000;
+white-space: pre-wrap;
+}
+
+a.Button.SignInPopup,a.Button.ApplyButton {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+display:inline-block;
+line-height:100%;
+margin:3px auto;
+padding:6px;
+}
+
+a.Button.SignInPopup:hover,a.Button.ApplyButton:hover,.Button:hover,a.Back:hover,.AttachFileLink a:hover,input.Button:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+background:url(images/parquet.jpg);
+border:1px solid #222;
+box-shadow:0 0 5px #aaa;
+color:lime;
+}
+
+a.Close span {
+color:#fff;
+font-family:arial;
+font-size:22px;
+font-weight:700;
+}
+
+a.Close span:hover {
+color:#0f0;
+font-size:22px;
+font-weight:700;
+line-height:1;
+padding:0;
+}
+
+a.Permalink {
+color:#ccc;
+font-size:10pt;
+font-weight:700;
+}
+
+a.Permalink:hover,a.CommentOption:hover {
+color:#0F0;
+font-size:10pt!important;
+font-weight:700;
+}
+
+a:hover,a:link:hover,a:hover image,a:link img:hover {
+color:#0F0;
+font-size:14px;
+font-weight:700;
+text-shadow:0 1px 0 #000;
+}
+
+body {
+background-attachment:fixed;
+background-clip:border-box;
+background-image:url(images/redwood.png);
+background-origin:padding-box;
+background-position:center bottom -130px;
+background-repeat:no-repeat;
+background-size:100% 100%;
+color:#FFF;
+font-weight:700;
+text-shadow:0 1px 0 #000;
+}
+
+body #Head h1 {
+background:transparent;
+border:0;
+display:inline-block;
+font-weight:700;
+margin:0;
+padding:21px 10px 4px 0;
+}
+
+body#dashboard_activity_index.Dashboard.Activity.index #Content,body.add #Content {
+width:97%;
+}
+
+body#dashboard_entry_register.Dashboard.Entry.register div.Box {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+background:#222;
+border:1px solid #555;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+margin:0 auto;
+width:450px;
+}
+
+body.Entry #Content {
+background-color:transparent;
+float:none;
+margin:0 auto;
+text-align:center;
+width:97%;
+}
+
+body.Entry #Content form {
+padding:10px;
+text-align:left;
+}
+
+body.Entry #Content h1,h1,#DiscussionForm form label,.Activities li.Condensed .Excerpt,.Box .PanelCategories .Heading,.Conversations .Conversation .Message,#MessageForm h2 {
+background-color:transparent;
+color:#FFF!important;
+font-size:20px;
+font-weight:700!important;
+text-align:center;
+}
+
+body.Post #Content,div.Message table {
+width:98%;
+}
+
+body.Profile #Content {
+float:left;
+margin-left:10px;
+width:65%;
+}
+
+body.Profile #Form_Invitation ul li label,body.Profile #Form_User ul li label,div.Popup form ul li label {
+color:#FFF;
+display:block;
+font-size:14px;
+font-weight:700;
+margin:10px 0 0;
+}
+
+body.Profile #Form_User ul li label.RadioLabel,body.Profile #Form_User ul li label.CheckBoxLabel,div.Popup form ul li label.RadioLabel,div.Popup form ul li label.CheckBoxLabel,#Menu li.NonTab,#Menu li.NonTab a {
+font-weight:700;
+}
+
+body.Profile #Panel {
+float:right!important;
+width:250px;
+}
+
+body.Profile .PanelInfo {
+border-bottom:1px solid #555;
+margin:3px 0;
+}
+
+body.Profile ul.Activities {
+border-top:1px solid #333;
+}
+
+dd.IP a,dt.IP,dd.IP,dt.Visits,dd.Visits,dt.LastActive,dd.LastActive,dd.Joined,dt.Joined {
+display:none;
+visibility:hidden;
+}
+
+dd.Name {
+color:#0F0;
+font-size:14pt;
+font-weight:700;
+}
+
+div#ConversationForm {
+width:98%!important;
+}
+
+div.Box.About h4,div.Box.CategoryFollowToggleBox h4,div.Box.GuestBox h4 {
+background:url(images/parquet.jpg);
+}
+
+div.Comment {
+color:#3f3;
+font:family:Arial;
+font-size:12pt!important;
+}
+
+div.DismissMessage.Info {
+background:#0F0;
+border-color:#222;
+border-style:solid;
+border-width:1px;
+font:family:Arial;
+font-size:12pt;
+font-weight:700;
+}
+
+div.Entry.SingleEntryMethod {
+background:#666;
+border-color:#222;
+border-width:1px;
+font:family:Arial;
+}
+
+div.Entry.SingleEntryMethod Label {
+font-color:#adadad;
+}
+
+div.Entry.SingleEntryMethod h1 {
+background:url(images/woodnav.png);
+border-color:#222;
+border-style:solid;
+border-width:1px;
+color:#000;
+font:family:Arial;
+}
+div.Info form div {
+color:#fff!important;
+white-space:pre-wrap;
+}
+div.Foot {
+background:transparent;
+border-color:#222;
+}
+
+div.ItemContent.Category.Read a,span.Breadcrumb.FirstCrumb a {
+font-size:16px;
+}
+
+div.Message {
+background:url(images/transpb.png);
+color:#fff;
+font:family:Arial;
+font-size:12pt!important;
+font-weight:700;
+}
+
+div.Message img {
+-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+border:1px solid #222;
+box-shadow:2px 2px 3px rgba(0,0,0,0.5);
+width:98%!important;
+}
+
+div.Popup a,#ThemeCredit a {
+color:#ADADAD;
+}
+
+div.Popup a:hover {
+text-decoration:none;
+}
+
+div.Popup h1,div.Popup h2 {
+background:url(images/woodnav.png);
+background-repeat:repeat-x;
+border:1px solid #666;
+border-radius:0;
+box-shadow:0 0 2px #999;
+color:#fff;
+font-size:18px;
+}
+
+div.Popup,.PanelInfo .Active a {
+color:#111;
+font-size:14px;
+}
+
+div.Preview {
+background:#222!important;
+font-size:14px;
+}
+
+div.Tabs.Profile.Tabs {
+background:url(images/parquet.jpg);
+background-color:transparent;
+}
+
+div.User h1 {
+background:none repeat scroll 0 0 #222;
+color:#fff;
+font-size:24px;
+font-weight:700;
+text-align:center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+color:#fff;
+font-family:"Helvetica Neue",Helvetica,arial,sans-serif;
+font-weight:700;
+margin:0;
+}
+h19 {
+font-size: 28px;
+font-weight: bold;
+font-family: Impact,Arial;
+color:#ccc;
+text-shadow: 0 1px 0 #666;
+}
+iframe#Form_Body, textarea#Form_Body.TextBox, textarea#Form_Body.TextBox:focus {
+color:#fff!important;
+width: 98%!important;
+height: 100%!important;
+overflow: hidden;
+min-height: 150px;
+border: none;
+}
+
+input#Form_Go.Button,input#Form_Go.Button:hover {
+-moz-box-shadow:0 0 5px #aaa;
+-webkit-box-shadow:0 0 5px #aaa;
+box-shadow:0 0 5px #aaa;
+font-size:12pt;
+font-weight:700;
+}
+
+input.DateBox,input.InputBox,input.SmallInput,textarea,input.DateBox:focus,input.InputBox:focus,input.SmallInput,textarea:focus {
+background:none repeat scroll 0 0 #222;
+border:1px solid #666;
+border-radius:2px 2px 2px 2px;
+color:#fff;
+font-size:15px;
+font-weight:700;
+margin:0;
+padding:3px;
+width:250px;
+}
+
+span.Email a,span.AddComment a {
+color:grey;
+font-size:10pt;
+}
+
+table.PreferenceGroup td.Description,div.CategoryDescription {
+font-size:14px;
+}
+
+textarea.MultiComplete {
+background:none repeat scroll 0 0 #000;
+height:20px;
+text-align:left;
+width:100%;
+}
+
+ul#Menu li ul {
+-moz-border-radius:5px;
+-moz-box-shadow:0 0 2px #999;
+-webkit-border-radius:5px;
+-webkit-box-shadow:0 0 2px #999;
+background:url(images/transparent2.png);
+border:2px solid #222;
+border-radius:5px;
+box-shadow:0 0 2px #999;
+display:none;
+left:0;
+margin:0;
+padding:0;
+position:absolute;
+top:25px;
+visibility:hidden;
+width:165px;
+}
+
+ul#Menu li ul li {
+-moz-box-shadow:0 1px 1px rgba(0,0,0,.2);
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,.2);
+background:url(images/parquet.jpg)!important;
+border:none!important;
+box-shadow:0 1px 1px rgba(0,0,0,.2);
+display:block;
+float:none;
+font-size:12pt;
+margin:0;
+text-align:left;
+text-shadow:2px 2px 3px #000;
+z-index:9;
+}
+
+ul#Menu li ul li a {
+color:#fff!important;
+font-size:12pt!important;
+font-weight:700;
+text-align:left!important;
+text-shadow:0 1px 0 #000!important;
+width:149px;
+}
+
+ul#Menu li ul li a:hover {
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+background:url(images/parquet.jpg)repeat-x!important;
+border-bottom:1px solid #222;
+border-radius:4px;
+color:#FFF!important;
+text-shadow:2px 2px 5px #000!important;
+}
+ul.MessageList li.Item {
+background:transparent;
+}
+ul.MessageList div.Meta span.Votes { text-align: center; display: block; position: absolute; left: 90%; line-height: normal; padding: 0;
+ }
+li.CreateAccount{
+display:block;
+}
